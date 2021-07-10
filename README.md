@@ -1,6 +1,10 @@
 # MSEngage-ChatsAndVCs-App
 
-**TO RUN-**
+**TO DOWNLOAD AND USE**
+
+go to APKs-for-download folder and install the application, create a username and launch!
+
+**TO RUN THE CODE-**
 
 install npm, react
 
