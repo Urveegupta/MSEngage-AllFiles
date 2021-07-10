@@ -4,8 +4,9 @@
 
 install npm, react
 
-Download the code
-Unzip cometchat-pro-react-native-ui-kit
+->Download the code
+->Unzip cometchat-pro-react-native-ui-kit
+->Remove APKs-for-download folder before running
 
 Connect an android device (Eg. Android Emulator)
 
