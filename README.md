@@ -4,6 +4,8 @@
 
 go to APKs-for-download folder and install the application, create a username and launch!
 
+A video demo of the app is available here - https://www.youtube.com/watch?v=htDrUVarJt8 
+
 **TO RUN THE CODE-**
 
 install npm, react
